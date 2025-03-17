@@ -41,7 +41,7 @@ You can view the live portfolio at: [My Portfolio](https://my-portfolioshivam.ve
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
 ## 📬 Contact
-- **LinkedIn:** [Shivam](https://www.linkedin.com/in/shivam0400)
+- **LinkedIn:** [Shivam](https://www.linkedin.com/in/shivam-jaiswal04/)
 - **GitHub:** [Shivam0400](https://github.com/Shivam0400)
 - **Email:** shivamjais.op09@gmail.com
 
