@@ -43,7 +43,7 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 ## 📬 Contact
 - **LinkedIn:** [Shivam](https://www.linkedin.com/in/shivam0400)
 - **GitHub:** [Shivam0400](https://github.com/Shivam0400)
-- **Email:** your-email@example.com
+- **Email:** shivamjais.op09@gmail.com
 
 ---
 ⭐ If you like this project, give it a star! ⭐
