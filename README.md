@@ -28,7 +28,7 @@ You can view the live portfolio at: [My Portfolio](https://my-portfolioshivam.ve
 ```
 
 ## 📸 Screenshots
-![Portfolio Screenshot](https://your-screenshot-link.png)
+![Portfolio Screenshot](screenshot.png)
 
 ## 🔧 Installation & Usage
 1. Clone this repository:
